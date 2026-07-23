@@ -1,4 +1,4 @@
-# Binatti Community — Documentação Oficial
+# Binatti Community | Documentação Oficial
 
 *Versão 1.0 — Julho de 2026*
 
